@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "icon": "icon1.png",
+        "title": "Product Consultation",
+        "text": "Penatibus et magnis dis parturient montes, nascetur ridiculus"
+    },
+    {
+        "id": 2,
+        "icon": "icon2.png",
+        "title": "Security Consultation",
+        "text": "Penatibus et magnis dis parturient montes, nascetur ridiculus"
+    },
+    {
+        "id": 3,
+        "icon": "icon3.png",
+        "title": "Operational Security",
+        "text": "Penatibus et magnis dis parturient montes, nascetur ridiculus"
+    }
+]

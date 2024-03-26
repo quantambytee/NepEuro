@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "icon": "fas fa-check",
+        "title": "User Friendly Design"
+    },
+    {
+        "id": 2,
+        "icon": "fas fa-check",
+        "title": "Secure and Quality"
+    },
+    {
+        "id": 3,
+        "icon": "fas fa-check",
+        "title": "Lifetime Updates"
+    }
+]

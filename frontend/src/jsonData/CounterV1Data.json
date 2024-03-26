@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "start": 0,
+        "end": 520,
+        "title": "Projects Done",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "start": 0,
+        "end": 24,
+        "title": "Awards Won",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "start": 0,
+        "end": 12,
+        "title": "Years Experience",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "start": 0,
+        "end": 352,
+        "title": "Happy Clients",
+        "delay": 800
+    }
+]

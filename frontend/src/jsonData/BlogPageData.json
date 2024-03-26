@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "thumb": "blog-standard-1.jpg",
+        "author": "Daniele Custer",
+        "icon": "far fa-user",
+        "date": "25 Jun 2023",
+        "icon2": "fas fa-calendar-alt",
+        "title": "Monthly Web Development Update Complexity Over HTTPS, And Push Notifications",
+        "text": "But we ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit-",
+        "btn": "Read More"
+    },
+    {
+        "id": 2,
+        "thumb": "blog-standard-2.jpg",
+        "author": "Mir Siap Ali",
+        "icon": "far fa-user",
+        "date": "22 Jun 2023",
+        "icon2": "fas fa-calendar-alt",
+        "title": "Taking A Look At State Of Progressive Images And User Perception Weathers",
+        "text": "But we ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit-",
+        "btn": "Read More"
+    },
+    {
+        "id": 3,
+        "thumb": "blog-standard-3.jpg",
+        "author": "Daniele Custer",
+        "icon": "far fa-user",
+        "date": "23 Jun 2023",
+        "icon2": "fas fa-calendar-alt",
+        "title": "Monthly Web Development Update Complexity Over HTTPS, And Push Notifications",
+        "text": "But we ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit-",
+        "btn": "Read More"
+    }
+]

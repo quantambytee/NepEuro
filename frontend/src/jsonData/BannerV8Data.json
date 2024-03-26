@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "thumb": "slide1.jpg",
+        "subtitle": "Were the best Protect",
+        "title": "We secure the World from cyber Threats",
+        "text": "Phasellus nisl velit, interdum lobortis elit quis, placerat bibendum lorem. Maecenas eget mi quis enim",
+        "btn1Text": "Discover More",
+        "btnIcon": "far fa-paper-plane",
+        "btn2Text": "Get Started"
+    },
+    {
+        "id": 2,
+        "thumb": "slide2.jpg",
+        "subtitle": "Were the best Protect",
+        "title": "We secure the World from cyber Threats",
+        "text": "Phasellus nisl velit, interdum lobortis elit quis, placerat bibendum lorem. Maecenas eget mi quis enim",
+        "btn1Text": "Discover More",
+        "btnIcon": "far fa-paper-plane",
+        "btn2Text": "Get Started"
+    },
+    {
+        "id": 3,
+        "thumb": "slide3.jpg",
+        "subtitle": "Were the best Protect",
+        "title": "We secure the World from cyber Threats",
+        "text": "Phasellus nisl velit, interdum lobortis elit quis, placerat bibendum lorem. Maecenas eget mi quis enim",
+        "btn1Text": "Discover More",
+        "btnIcon": "far fa-paper-plane",
+        "btn2Text": "Get Started"
+    }
+]

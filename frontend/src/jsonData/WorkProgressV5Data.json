@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "icon": "icon-1.png",
+        "number": 1,
+        "title": "Set Up Your Wallet",
+        "text": "Praesent euismod eu elit id maximus. Donec",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "icon-2.png",
+        "number": 2,
+        "title": "Create Collection",
+        "text": "Praesent euismod eu elit id maximus. Donec",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "icon-3.png",
+        "number": 3,
+        "title": "Add Your NFT",
+        "text": "Praesent euismod eu elit id maximus. Donec",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "icon-4.png",
+        "number": 4,
+        "title": "List For Sale",
+        "text": "Praesent euismod eu elit id maximus. Donec",
+        "delay": 800
+    }
+]

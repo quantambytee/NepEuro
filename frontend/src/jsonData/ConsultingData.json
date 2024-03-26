@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Strategy Consulting",
+        "text": "We partner with businesses to develop and execute strategic plans that drive growth, enhance competitiveness, and capitalize on emerging opportunities.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Management Consulting",
+        "text": "Our management consultants work closely with leadership teams to streamline operations, improve efficiency, and foster organizational excellence.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Digital Transformation",
+        "text": "Embracing digital innovation is essential for staying ahead in today's digital economy. Our digital transformation consulting services help organizations leverage technology to drive innovation, improve customer experiences, and unlock new revenue streams",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Financial Consulting",
+        "text": "Financial health is critical for sustainable growth and profitability. Our financial consultants offer expertise in financial analysis, budgeting, forecasting, risk management, and capital optimization to help clients make informed financial decisions and achieve their objectives.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Marketing and Branding Consulting",
+        "text": "Building a strong brand and effective marketing strategy is essential for attracting customers and driving business growth. Our marketing and branding consultants offer insights and strategies to enhance brand visibility, engage audiences, and achieve marketing objectives.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    }
+   
+]

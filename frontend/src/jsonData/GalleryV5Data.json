@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "thumb": "gallery-five-1.jpg",
+        "title": "IT Consultations",
+        "text": "Technology Service Solutions",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "gallery-five-2.jpg",
+        "title": "Product Engineering",
+        "text": "Lorem ipsum dolor sit am consectetur adipiscing elit sed do eiusmod",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "gallery-five-3.jpg",
+        "title": "Marketing Policy",
+        "text": "Technology Service Solutions",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "gallery-five-4.jpg",
+        "title": "Business Setup",
+        "text": "Technology Service Solutions",
+        "delay": 800
+    }
+]

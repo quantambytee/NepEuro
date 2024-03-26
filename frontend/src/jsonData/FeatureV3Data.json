@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "thumb": "icon1.png",
+        "title": "Security Services",
+        "text": "Pulvinar ornare in a sem. Quisque Vulputate convallis nulla. In Efficitur",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "icon2.png",
+        "title": "Data Privacy",
+        "text": "Pulvinar ornare in a sem. Quisque Vulputate convallis nulla. In Efficitur",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "icon3.png",
+        "title": "Industry Certified",
+        "text": "Pulvinar ornare in a sem. Quisque Vulputate convallis nulla. In Efficitur",
+        "delay": 600
+    }
+]

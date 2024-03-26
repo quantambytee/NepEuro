@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Basic Package",
+        "icon": "gift.png",
+        "price": 0,
+        "list1": "Lifetime Update",
+        "list2": "Dedicated Hosting",
+        "list3": "Supports 24/7",
+        "list4": "3 Unique Demos",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "title": "Regular Package",
+        "icon": "gift.png",
+        "price": 19,
+        "list1": "Lifetime Update",
+        "list2": "Dedicated Hosting",
+        "list3": "Supports 24/7",
+        "list4": "5 Unique Demos",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "title": "Silver Package",
+        "icon": "gift.png",
+        "price": 29,
+        "list1": "Lifetime Update",
+        "list2": "Dedicated Hosting",
+        "list3": "Supports 24/7",
+        "list4": "7 Unique Demos",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "title": "Gold Package",
+        "icon": "gift.png",
+        "price": 39,
+        "list1": "Lifetime Update",
+        "list2": "Dedicated Hosting",
+        "list3": "Supports 24/7",
+        "list4": "9 Unique Demos",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "delay": 800
+    }
+]

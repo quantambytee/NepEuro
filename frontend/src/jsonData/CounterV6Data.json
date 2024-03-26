@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "fas fa-warehouse",
+        "title": "Apps Project Complete",
+        "start": 0,
+        "end": 3052,
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "fas fa-cloud-download-alt",
+        "title": "Download Our Apps",
+        "start": 0,
+        "end": 785634,
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "fas fa-users",
+        "title": "Our Professional Staff",
+        "start": 0,
+        "end": 8963,
+        "delay": 600
+    }
+]

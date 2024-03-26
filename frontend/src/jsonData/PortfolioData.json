@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Cyber Security Services",
+        "thumb": "gallery-three-1.jpg",
+        "category": "mobile",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "title": "Software License Management",
+        "thumb": "gallery-three-2.jpg",
+        "category": "development",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "title": "Knowledge Base & Live Chat",
+        "thumb": "gallery-three-3.jpg",
+        "category": "software",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "title": "CMS Best Software",
+        "thumb": "gallery-three-4.jpg",
+        "category": "engineering",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "title": "IT with Solution",
+        "thumb": "gallery-three-5.jpg",
+        "category": "software",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "title": "Software as a Service",
+        "thumb": "gallery-three-6.jpg",
+        "category": "marketing",
+        "delay": 1200
+    },
+    {
+        "id": 7,
+        "title": "Knowledge Base Chat",
+        "thumb": "gallery-three-7.jpg",
+        "category": "engineering",
+        "delay": 1200
+    },
+    {
+        "id": 8,
+        "title": "Client Work",
+        "thumb": "gallery-three-8.jpg",
+        "category": "development",
+        "delay": 1200
+    },
+    {
+        "id": 9,
+        "title": "Software License Management",
+        "thumb": "gallery-three-9.jpg",
+        "category": "mobile",
+        "delay": 1200
+    }
+]

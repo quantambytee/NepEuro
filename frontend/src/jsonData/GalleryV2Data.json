@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Cyber Security Services",
+        "thumb": "gallery-two-1.jpg",
+        "thumb2": "gallery-three-1.jpg",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "title": "Software License Management",
+        "thumb": "gallery-two-2.jpg",
+        "thumb2": "gallery-three-2.jpg",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "title": "Knowledge Base & Live Chat",
+        "thumb": "gallery-two-3.jpg",
+        "thumb2": "gallery-three-3.jpg",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "title": "CMS Best Software",
+        "thumb": "gallery-four-1.jpg",
+        "thumb2": "gallery-three-4.jpg",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "title": "IT with Solution",
+        "thumb": "gallery-four-3.jpg",
+        "thumb2": "gallery-three-5.jpg",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "title": "Software as a Service",
+        "thumb": "gallery-four-2.jpg",
+        "thumb2": "gallery-three-6.jpg",
+        "delay": 1200
+    }
+]

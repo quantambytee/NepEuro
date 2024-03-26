@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Basic Plan",
+        "price": 19.23,
+        "discount": "Save Up to 60%",
+        "text1": "For people and little",
+        "text2": "activities",
+        "icon": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "title": "Popular Plan",
+        "price": 29.23,
+        "discount": "Save Up to 60%",
+        "text1": "For people and little",
+        "text2": "activities",
+        "icon": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "title": "Business Plan",
+        "price": 39.23,
+        "discount": "Save Up to 60%",
+        "text1": "For people and little",
+        "text2": "activities",
+        "icon": "fas fa-arrow-right",
+        "delay": 600
+    }
+]

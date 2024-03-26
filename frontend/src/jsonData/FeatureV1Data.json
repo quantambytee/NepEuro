@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Market Research and Analysis",
+        "text": "We conduct comprehensive market research to help you understand the competitive landscape, consumer behavior, regulatory environment, and potential risks.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Market Entry Strategy Development",
+        "text": "Based on our research findings, we work closely with you to develop a tailored market entry strategy Whether it's through organic growth, partnerships, acquisitions, or franchising",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Business Planning and Feasibility Studies",
+        "text": "We assist you in developing detailed business plans and conducting feasibility studies to assess the viability of your market entry strategy.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Regulatory Compliance and Legal Support",
+        "text": "Navigating regulatory requirements and legal frameworks in a new market can be complex. We provide guidance and support to ensure compliance with local laws and regulations",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Partner Identification and Due Diligence",
+        "text": "If your market entry strategy involves partnerships or collaborations, we assist in identifying suitable partners and conducting due diligence.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-plan",
+        "title": "Go-to-Market Execution",
+        "text": "Once the strategy is finalized, we support you in executing your market entry plan efficiently. From establishing distribution channels and marketing initiatives to recruiting local talent and setting up operational infrastructure",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1200
+    }
+]

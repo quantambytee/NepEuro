@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Standard",
+        "price": 29.99,
+        "label": "popular",
+        "icon": "flaticon-computer",
+        "duration": "Per Month",
+        "list1": "Limited install",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Free 15 GB Linux Hosting",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "title": "Business",
+        "price": 59.99,
+        "label": "popular",
+        "icon": "flaticon-web-traffic-1",
+        "duration": "Per Month",
+        "list1": "Limited install",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Free 15 GB Linux Hosting",
+        "list5": "Regular Software Updates",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "title": "Premium",
+        "price": 79.99,
+        "label": "popular",
+        "icon": "flaticon-design-process",
+        "duration": "Per Month",
+        "list1": "Limited install",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Free 15 GB Linux Hosting",
+        "list5": "Regular Software Updates",
+        "list6": "Advanced Security Features",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "title": "Standard",
+        "price": 29.99,
+        "label": "popular",
+        "icon": "flaticon-computer",
+        "duration": "Per Month",
+        "list1": "Limited install",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Free 15 GB Linux Hosting",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "title": "Business",
+        "price": 59.99,
+        "label": "popular",
+        "icon": "flaticon-web-traffic-1",
+        "duration": "Per Month",
+        "list1": "Limited install",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Free 15 GB Linux Hosting",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "title": "Premium",
+        "price": 79.99,
+        "label": "popular",
+        "icon": "flaticon-design-process",
+        "duration": "Per Month",
+        "list1": "Limited install",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Free 15 GB Linux Hosting",
+        "delay": 1200
+    }
+]

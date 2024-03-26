@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Business",
+        "price": 39.99,
+        "label": "popular",
+        "icon": "flaticon-web-traffic-1",
+        "duration": "Per Month",
+        "list1": "Free 15 GB Linux Hosting",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Limited install",
+        "delay": 100
+    },
+    {
+        "id": 2,
+        "title": "Standard",
+        "price": 29.99,
+        "label": "Standard",
+        "icon": "flaticon-web-traffic-1",
+        "duration": "Per Month",
+        "list1": "Free 15 GB Linux Hosting",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "delay": 300
+    },
+    {
+        "id": 3,
+        "title": "Business",
+        "price": 390.99,
+        "label": "popular",
+        "icon": "flaticon-web-traffic-1",
+        "duration": "Per Year",
+        "list1": "Free 15 GB Linux Hosting",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "list4": "Limited install",
+        "delay": 100
+    },
+    {
+        "id": 4,
+        "title": "Standard",
+        "price": 290.99,
+        "label": "Standard",
+        "icon": "flaticon-web-traffic-1",
+        "duration": "Per Year",
+        "list1": "Free 15 GB Linux Hosting",
+        "list2": "Unlimited Download",
+        "list3": "Free One Year Support",
+        "delay": 300
+    }
+]

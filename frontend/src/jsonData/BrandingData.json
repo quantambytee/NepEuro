@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Brand Strategy Development",
+        "text": "We work closely with businesses to define their brand strategy, including brand positioning, messaging, values, and personality.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Brand Identity Design",
+        "text": "Our creative team specializes in crafting visually appealing brand identities that resonate with audiences and leave a lasting impression",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Brand Guidelines Creation",
+        "text": "Consistency is key to building brand recognition and trust. We develop comprehensive brand guidelines that outline usage rules and standards for your brand assets.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Brand Collateral Development",
+        "text": "We create a range of branded collateral to support your marketing efforts and enhance brand visibility.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Brand Storytelling and Content Strategy",
+        "text": "Compelling storytelling is essential for connecting with audiences on an emotional level. We help businesses craft authentic brand stories that resonate with their target audience.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    }
+   
+]

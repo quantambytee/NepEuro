@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Technical Training Programs",
+        "text": "We offer a wide range of technical training programs covering various IT domains, including programming languages, software development, cybersecurity, cloud computing, data science, and more.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Certification Preparation",
+        "text": "We provide specialized training and preparation courses for industry-recognized certifications, such as CompTIA, Cisco, Microsoft, AWS, and Google Cloud.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Professional Development Workshops",
+        "text": "In addition to technical training, we offer professional development workshops focused on soft skills enhancement, including communication, teamwork, problem-solving, and leadership.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Career Guidance and Placement Assistance",
+        "text": "We provide personalized career guidance and placement assistance to help individuals transition into rewarding IT careers.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "On-The-Job Training (OJT) Programs",
+        "text": "For those seeking practical experience, we offer on-the-job training programs in collaboration with leading IT companies and organizations.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    }
+   
+]

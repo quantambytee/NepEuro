@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "thumb": "news-six1.jpg",
+        "title": "Final Thoughts on NFT Marketing Checklist",
+        "icon1": "far fa-calendar-check",
+        "icon2": "far fa-comment",
+        "date": "5 Apr, 2023",
+        "comment": "3 Comments",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "news-six2.jpg",
+        "title": "Final Thoughts on NFT Marketing Checklist",
+        "icon1": "far fa-calendar-check",
+        "icon2": "far fa-comment",
+        "date": "5 Jun, 2022",
+        "comment": "4 Comments",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "news-six3.jpg",
+        "title": "Final Thoughts on NFT Marketing Checklist",
+        "icon1": "far fa-calendar-check",
+        "icon2": "far fa-comment",
+        "date": "5 Aug, 2022",
+        "comment": "5 Comments",
+        "delay": 600
+    }
+]

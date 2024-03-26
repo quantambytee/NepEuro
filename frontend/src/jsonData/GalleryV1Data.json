@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "thumb": "gallery-1.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    },
+    {
+        "id": 2,
+        "thumb": "gallery-2.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    },
+    {
+        "id": 3,
+        "thumb": "gallery-3.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    },
+    {
+        "id": 4,
+        "thumb": "gallery-4.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    },
+    {
+        "id": 5,
+        "thumb": "gallery-four-1.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    },
+    {
+        "id": 6,
+        "thumb": "gallery-four-2.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    },
+    {
+        "id": 7,
+        "thumb": "gallery-four-3.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    },
+    {
+        "id": 8,
+        "thumb": "gallery-four-4.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office"
+    }
+]

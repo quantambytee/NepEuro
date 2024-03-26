@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-speech-bubble",
+        "title": "Advertising and Marketing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "delay": 200,
+        "step": "01"
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-vector",
+        "title": "Web Development",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "delay": 400,
+        "step": "02"
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-like-1",
+        "title": "Mobile App Development",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "delay": 600,
+        "step": "03"
+    }
+]

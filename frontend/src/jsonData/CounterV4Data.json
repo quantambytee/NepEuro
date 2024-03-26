@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "start": 0,
+        "end": 900,
+        "text": "Successful Work",
+        "icon": "fas fa-check",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "start": 0,
+        "end": 180,
+        "text": "Upgrade Conversion",
+        "icon": "fas fa-check",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "start": 0,
+        "end": 115,
+        "text": "Repeated Client",
+        "icon": "fas fa-check",
+        "delay": 600
+    }
+]

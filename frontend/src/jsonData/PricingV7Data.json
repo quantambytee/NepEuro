@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "title": "Basic",
+        "text": "Enjoy Basic amenities",
+        "price": 190,
+        "list1": "Unlimited Reports 100+ Data",
+        "list2": "Connectors",
+        "list3": "Yearly Premium Support",
+        "btnText": "Start Free trial"
+    },
+    {
+        "id": 2,
+        "title": "Standard",
+        "text": "Enjoy Basic amenities",
+        "price": 290,
+        "list1": "Unlimited Reports 100+ Data",
+        "list2": "Connectors",
+        "list3": "Yearly Premium Support",
+        "btnText": "Start Free trial"
+    },
+    {
+        "id": 3,
+        "title": "Premium",
+        "text": "Enjoy Basic amenities",
+        "price": 390,
+        "list1": "Unlimited Reports 100+ Data",
+        "list2": "Connectors",
+        "list3": "Yearly Premium Support",
+        "btnText": "Start Free trial"
+    },
+    {
+        "id": 4,
+        "title": "Basic",
+        "text": "Enjoy Basic amenities",
+        "price": 19,
+        "list1": "Unlimited Reports 100+ Data",
+        "list2": "Connectors",
+        "list3": "Yearly Premium Support",
+        "btnText": "Start Free trial"
+    },
+    {
+        "id": 5,
+        "title": "Standard",
+        "text": "Enjoy Basic amenities",
+        "price": 29,
+        "list1": "Unlimited Reports 100+ Data",
+        "list2": "Connectors",
+        "list3": "Yearly Premium Support",
+        "btnText": "Start Free trial"
+    },
+    {
+        "id": 6,
+        "title": "Premium",
+        "text": "Enjoy Basic amenities",
+        "price": 39,
+        "list1": "Unlimited Reports 100+ Data",
+        "list2": "Connectors",
+        "list3": "Yearly Premium Support",
+        "btnText": "Start Free trial"
+    }
+
+]

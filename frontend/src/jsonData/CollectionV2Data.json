@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "thumb": "collections-1.png",
+        "title": "Creative Artwork",
+        "items": 225
+    },
+    {
+        "id": 2,
+        "thumb": "collections-2.png",
+        "title": "Action Art",
+        "items": 220
+    },
+    {
+        "id": 3,
+        "thumb": "collections-3.png",
+        "title": "Artwork",
+        "items": 235
+    },
+    {
+        "id": 4,
+        "thumb": "collections-1.png",
+        "title": "Creative Artwork",
+        "items": 225
+    },
+    {
+        "id": 5,
+        "thumb": "collections-2.png",
+        "title": "Action Art",
+        "items": 220
+    },
+    {
+        "id": 6,
+        "thumb": "collections-3.png",
+        "title": "Artwork",
+        "items": 235
+    }
+]

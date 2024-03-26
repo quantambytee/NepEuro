@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "thumb": "product-1.jpg",
+        "thumb2": "widget-1.jpg",
+        "name": "Black Lamp",
+        "oldPrice": 100.00,
+        "newPrice": 90.00
+    },
+    {
+        "id": 2,
+        "thumb": "product-2.jpg",
+        "thumb2": "widget-2.jpg",
+        "name": "Cooler",
+        "oldPrice": 200.00,
+        "newPrice": 190.00
+    },
+    {
+        "id": 3,
+        "thumb": "product-3.jpg",
+        "thumb2": "widget-3.jpg",
+        "name": "Digital lamp",
+        "oldPrice": 70.00,
+        "newPrice": 60.00
+    },
+    {
+        "id": 4,
+        "thumb": "product-4.jpg",
+        "thumb2": "widget-4.jpg",
+        "name": "Fan",
+        "oldPrice": 150.00,
+        "newPrice": 140.00
+    },
+    {
+        "id": 5,
+        "thumb": "product-5.jpg",
+        "thumb2": "widget-5.jpg",
+        "name": "Head Phone",
+        "oldPrice": 100.00,
+        "newPrice": 90.00
+    },
+    {
+        "id": 6,
+        "thumb": "product-6.jpg",
+        "thumb2": "widget-1.jpg",
+        "name": "Smart Router",
+        "oldPrice": 60.00,
+        "newPrice": 50.00
+    },
+    {
+        "id": 7,
+        "thumb": "product-7.jpg",
+        "thumb2": "widget-2.jpg",
+        "name": "Smart watch",
+        "oldPrice": 120.00,
+        "newPrice": 110.00
+    },
+    {
+        "id": 8,
+        "thumb": "product-8.jpg",
+        "thumb2": "widget-3.jpg",
+        "name": "Sound box",
+        "oldPrice": 90.00,
+        "newPrice": 80.00
+    },
+    {
+        "id": 9,
+        "thumb": "product-9.jpg",
+        "thumb2": "widget-4.jpg",
+        "name": "Watch box",
+        "oldPrice": 30.00,
+        "newPrice": 20.00
+    }
+]

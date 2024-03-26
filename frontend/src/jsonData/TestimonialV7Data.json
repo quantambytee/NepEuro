@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "authorThumb": "test-author-2.jpg",
+        "text": "Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed",
+        "icon": "fas fa-quote-right",
+        "name": "Michael S. Collins",
+        "designation": "Web Developer"
+    },
+    {
+        "id": 2,
+        "authorThumb": "test-author-3.jpg",
+        "text": "Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed",
+        "icon": "fas fa-quote-right",
+        "name": "Ebony K. Hedrick",
+        "designation": "Ui Ux Designer"
+    }
+]

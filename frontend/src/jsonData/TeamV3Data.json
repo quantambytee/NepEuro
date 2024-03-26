@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "thumb": "consulting1.jpg",
+        "name": "Strategy Consulting",
+        "designation": "Our strategy consulting services encompass market analysis, business planning, competitive positioning, and performance optimization to ensure sustainable success.",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "consulting2.jpeg",
+        "name": "Financial Consulting",
+        "designation": "Whether it's financial restructuring, mergers and acquisitions, or investment advisory, we provide strategic guidance to optimize financial performance and mitigate risks.",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "consulting3.png",
+        "name": "Management Consulting",
+        "designation": "From process reengineering and change management to leadership development and talent optimization, we provide actionable insights and solutions to enhance business performance.",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "team-1.jpg",
+        "name": "Istiak Ahmed",
+        "designation": "CEO & Founder",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "thumb": "team-2.jpg",
+        "name": "Kenneth B. Jones",
+        "designation": "Web Developer",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "thumb": "team-3.jpg",
+        "name": "Marcelo L. Cameron",
+        "designation": "Graphics Designer",
+        "delay": 1200
+    }
+]

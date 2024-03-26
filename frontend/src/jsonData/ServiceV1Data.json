@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "thumb": "service-five-1.jpg",
+        "icon": "flaticon-computer",
+        "title": "Market Research and Analysis",
+        "text": "We conduct comprehensive market research to help you understand the competitive landscape, consumer behavior, regulatory environment, and potential risks",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "service-five-2.jpg",
+        "icon": "flaticon-web-development-4",
+        "title": "Market Entry Strategy Development",
+        "text": "Based on our research findings, we work closely with you to develop a tailored market entry strategy.",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "service-five-3.jpg",
+        "icon": "flaticon-web",
+        "title": "Business Planning and Feasibility Studies",
+        "text": "We assist you in developing detailed business plans and conducting feasibility studies to assess the viability of your market entry strategy.",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "service-five-4.jpg",
+        "icon": "flaticon-data",
+        "title": "Regulatory Compliance and Legal Support",
+        "text": "Navigating regulatory requirements and legal frameworks in a new market can be complex. We provide guidance and support to ensure compliance with local laws and regulations.",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "thumb": "service-five-1.jpg",
+        "icon": "flaticon-prototype",
+        "title": "Partner Identification and Due Diligence",
+        "text": "If your market entry strategy involves partnerships or collaborations, we assist in identifying suitable partners and conducting due diligence.",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "thumb": "service-five-2.jpg",
+        "icon": "flaticon-plan",
+        "title": "Go-to-Market Execution",
+        "text": "Once the strategy is finalized, we support you in executing your market entry plan efficiently.we provide end-to-end assistance to kickstart your presence in the new market.",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 1200
+    }
+]

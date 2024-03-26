@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "thumb": "news-1.jpg",
+        "icon": "fas fa-calendar-alt",
+        "icon2": "fas fa-tag",
+        "date": "21 December 2023",
+        "tag": "it service",
+        "title": "Keep Your Business Safe & Ensure High Availability.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisc ingelit sed do eiusmod",
+        "authorThumb": "news-author-1.jpg",
+        "author": "Admin",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "news-2.jpg",
+        "icon": "fas fa-calendar-alt",
+        "icon2": "fas fa-tag",
+        "date": "22 November 2023",
+        "tag": "it service",
+        "title": "Keep Your Business Safe & Ensure High Availability.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisc ingelit sed do eiusmod",
+        "authorThumb": "news-author-2.jpg",
+        "author": "Admin",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "news-3.jpg",
+        "icon": "fas fa-calendar-alt",
+        "icon2": "fas fa-tag",
+        "date": "23 February 2023",
+        "tag": "it service",
+        "title": "Keep Your Business Safe & Ensure High Availability.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisc ingelit sed do eiusmod",
+        "authorThumb": "news-author-3.jpg",
+        "author": "Admin",
+        "delay": 600
+    }
+]

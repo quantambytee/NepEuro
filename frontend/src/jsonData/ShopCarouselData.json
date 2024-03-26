@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "preview": "preview-1.jpg",
+        "mini": "thumb-1.jpg"
+    },
+    {
+        "id": 2,
+        "preview": "preview-2.jpg",
+        "mini": "thumb-2.jpg"
+    },
+    {
+        "id": 3,
+        "preview": "preview-3.jpg",
+        "mini": "thumb-3.jpg"
+    },
+    {
+        "id": 4,
+        "preview": "preview-4.jpg",
+        "mini": "thumb-4.jpg"
+    },
+    {
+        "id": 5,
+        "preview": "preview-5.jpg",
+        "mini": "thumb-5.jpg"
+    },
+    {
+        "id": 6,
+        "preview": "preview-6.jpg",
+        "mini": "thumb-6.jpg"
+    },
+    {
+        "id": 7,
+        "preview": "preview-3.jpg",
+        "mini": "thumb-3.jpg"
+    },
+    {
+        "id": 8,
+        "preview": "preview-4.jpg",
+        "mini": "thumb-4.jpg"
+    }
+]

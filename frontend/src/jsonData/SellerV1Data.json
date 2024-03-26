@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "number": 1,
+        "thumb": "seller1.png",
+        "icon": "fas fa-check",
+        "name": "Michele Morrone",
+        "items": 230
+    },
+    {
+        "id": 2,
+        "number": 2,
+        "thumb": "seller2.png",
+        "icon": "fas fa-check",
+        "name": "John Kery",
+        "items": 240
+    },
+    {
+        "id": 3,
+        "number": 3,
+        "thumb": "seller3.png",
+        "icon": "fas fa-check",
+        "name": "Hardy Voughn",
+        "items": 250
+    },
+    {
+        "id": 4,
+        "number": 4,
+        "thumb": "seller4.png",
+        "icon": "fas fa-check",
+        "name": "jonathan Tomas",
+        "items": 260
+    },
+    {
+        "id": 5,
+        "number": 5,
+        "thumb": "seller5.png",
+        "icon": "fas fa-check",
+        "name": "Nicolas Morrone",
+        "items": 230
+    },
+    {
+        "id": 6,
+        "number": 6,
+        "thumb": "seller1.png",
+        "icon": "fas fa-check",
+        "name": "Michele Morrone",
+        "items": 230
+    },
+    {
+        "id": 7,
+        "number": 7,
+        "thumb": "seller2.png",
+        "icon": "fas fa-check",
+        "name": "John Kery",
+        "items": 240
+    },
+    {
+        "id": 8,
+        "number": 8,
+        "thumb": "seller3.png",
+        "icon": "fas fa-check",
+        "name": "Hardy Voughn",
+        "items": 250
+    },
+    {
+        "id": 9,
+        "number": 9,
+        "thumb": "seller4.png",
+        "icon": "fas fa-check",
+        "name": "jonathan Tomas",
+        "items": 260
+    },
+    {
+        "id": 10,
+        "number": 10,
+        "thumb": "seller5.png",
+        "icon": "fas fa-check",
+        "name": "Nicolas Morrone",
+        "items": 230
+    }
+]
